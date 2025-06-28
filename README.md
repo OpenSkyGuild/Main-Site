@@ -14,7 +14,7 @@
 <h2>Principles and Teachings</h2>
 <p>principles</p>
 
-<a href="nextpage.html">
+<a href="principles.html">
   <button>Principles and Teachings</button>
 </a>
 
