@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Principles and Teachings</title>
+</head>
+<body>
+  <h1>This is the Principles and Teachings page</h1>
+  <a href="index.html">← Back to Home</a>
+</body>
+</html>
