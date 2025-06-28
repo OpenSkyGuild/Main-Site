@@ -15,17 +15,31 @@
 <p>principles</p>
 
 <a href="nextpage.html">
-  <button>See Principles and Teachings</button>
+  <button>Principles and Teachings</button>
 </a>
 
 
 
 <h2>Founders</h2>
 <p>Founders</p>
+
+<a href="nextpage.html">
+  <button>Founders</button>
+</a>
+
 <h2>Archive</h2>
 <p>The Archive section is</p>
+
+<a href="nextpage.html">
+  <button>The Archive</button>
+</a>
+
 <h2>Get Involved</h2>
 <p>OpenSky can be used as a teaching tool for cyberawareness</p>
+
+<a href="nextpage.html">
+  <button>Get Archive</button>
+</a>
     
 </body>
 </html>
