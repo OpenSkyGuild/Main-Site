@@ -4,7 +4,7 @@
 <h1>Welcome To The OpenSky Guild</h1>
 </head>
 <body>
-<p>A guild is a union of peoples with coninciding interests. Historically, it described associations of medieval merchants and craftsmen. The modern usage is often for organizations of people with same professions seeking civil and job security; trade unions; writer's guilds.</p>
+<p>A guild is a group comprised of coninciding interests. Historically, it described associations of medieval merchants and craftsmen, while the modern usage is often for organizations of people with similar professions seeking civil and job security. Think trade unions and writers' guilds. In any case, guides have timelessly been a union of peoples for their protection and benefit. The Open Sky Guild is none different. Anyone wishing to develop more knowledge and insight into world and its inner workings is welcome.</p>
 </body>
   
 <body>
