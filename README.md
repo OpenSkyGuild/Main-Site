@@ -1,5 +1,4 @@
-
-	<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 <h1>Welcome To The OpenSky Guild</h1>
