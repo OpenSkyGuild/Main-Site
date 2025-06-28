@@ -21,7 +21,7 @@
 
 
 <h2>Founders</h2>
-<p>Raven, Owl, Linda</p>
+<p>Nighthawk (in progress), Owl, Linda</p>
 
 <a href="nextpage.html">
   <button>Founders</button>
