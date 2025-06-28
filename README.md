@@ -5,9 +5,9 @@
 
 <h1>Introduction<h1>
 
-<p>OpenSky is a foundation built by...<p>
+<p>OpenSky, officially the OpenSky Guild, is a foundation built by...<p>
 
-<h1>Principles/h1>
+<h2>Principles<h2>
 
 <p>The Areas of Focus covered by OpenSky include...</p>
 
