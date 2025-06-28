@@ -7,7 +7,7 @@
 
 <h2>Introduction<h2>
 
-<p>OpenSky, officially the OpenSky Guild, is a foundation built by...<p>
+<body>OpenSky, officially the OpenSky Guild, is a foundation built by...<body>
 
 <h2>Principles<h2>
 
