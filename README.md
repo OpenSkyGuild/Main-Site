@@ -1,7 +1,4 @@
-Mother Hen 🍳:
-	My bad 
 
-Rey:
 	<!DOCTYPE html>
 <html>
 <head>
