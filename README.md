@@ -3,9 +3,9 @@
 <html>
 <body>
 
-<h1>Introduction/h1>
+<h1>Introduction<h1>
 
-<p>OpenSky is a foundation built by...</p>
+<p>OpenSky is a foundation built by...<p>
 
 <h1>Principles/h1>
 
