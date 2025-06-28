@@ -6,7 +6,6 @@
 <p>A guild is an association of people with shared interests, typically craftspeople or merchants, formed for mutual support and protection. They historically played a significant role in regulating trades, setting standards, and fostering a sense of community among their members. Modern equivalents can be found in trade unions or professional associations</p>
 
 <h2>Introduction<h2>
-
 <p>OpenSky, officially the OpenSky Guild, is a foundation built by...</p>
 
 <h2>Principles<h2>
