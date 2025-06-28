@@ -21,7 +21,7 @@
 
 
 <h2>Founders</h2>
-<p>Founders</p>
+<p>Raven, Owl, Linda</p>
 
 <a href="nextpage.html">
   <button>Founders</button>
